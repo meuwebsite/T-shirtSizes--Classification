@@ -2,7 +2,7 @@
 
 # T-shirtSizes--Classification
 
-![x](images/ts4)
+![x](images/ts4.png)
 
 ## Background
 
@@ -31,34 +31,21 @@ Open Google Colab https://colab.research.google.com/
 ## Proccess
 
 Import the data set and visualize the data
+#   
+![fb](images/ts1.png)
 
-With Scatter plot
+* Transforming the data
+* Spliting in Train and Test 
+* Creating the model
+#  
+![fb](images/ts2.png)
 
-![fb](images/fb1.png)
+Testing the model
+#  
+![fb](images/ts3.png)
 
-With Box plot
-![fb](images/fb2.png)
-
-With Histogram
-![fb](images/fb4.png)
-
-Transforming the data and Executing a training Test 
-![fb](images/fb5.png)
-
-With Confusion Matrix, checking on the accuracy
-![fb](images/fb6.png)
-
-ploting the boundary using the trained classifier
-* Run the classifier to predict the outcome on all pixels with resolution of 0.01
-* Colouring the pixels with 0 or 1
-* If classified as 0 it will be magenta, and if it is classified as 1 it will be shown in blue 
-
-![fb](images/fb7.png)
-
-Ploting all the actual training points
-
-![fb](images/fb8.png)
-
-Visualising the Training set results for Tran and Test
-
-![fb](images/fb9.png)
+Visualizing
+* Train results
+* Test results
+#  
+![fb](images/ts4.png)
